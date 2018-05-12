@@ -1,0 +1,24 @@
+_repo: A-Little-Book-of-Old-Time-VerseOld-Fashioned-Flowers_38839
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38839-h/images/img-fcover.jpg
+creator:
+  editor:
+    agent_name: Crouch, Gladys Sidney
+    gutenberg_agent_id: '39674'
+    url: http://www.gutenberg.org/2009/agents/39674
+description: ''
+gutenberg_issued: '2012-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry -- Collections'
+- !lcc 'PN'
+title: 'A Little Book of Old Time Verse: Old Fashioned Flowers'
+url: http://www.gutenberg.org/ebooks/38839
